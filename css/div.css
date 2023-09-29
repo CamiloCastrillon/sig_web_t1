@@ -1,0 +1,29 @@
+body {
+    background-color: #f0f0f0; /* Cambiar el color de fondo */
+    margin: 0; /* Eliminar márgenes predeterminados */
+    padding: 0; /* Eliminar relleno predeterminado */
+    height: 100vh;
+    width: 100vw;
+  }
+
+.principal{
+    position: relative;
+    height: 90vh;
+    width: 100vw;
+}
+
+.imagen{
+    position: relative;
+    padding: 0;
+    height: 80vh;
+    width: 100vw;
+    overflow: hidden; 
+    object-fit: cover;
+}
+
+.imagen img{
+    max-width: 100%;
+    height: 80vh;
+    display: block;
+    z-index: -1;
+}
