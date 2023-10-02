@@ -1,0 +1,55 @@
+.titulo_intro{
+    position: absolute;
+    color: white;
+    font-family: Tahoma;
+    font-size: 5vh;
+    font-weight: 500;
+}
+.titulo_sitio{
+    position: absolute;
+    color: rgb(190, 190, 190);
+    font-family: Tahoma;
+    font-size: 6vh;
+    font-weight: 700;
+}
+.cuerpo_intro{
+    position: absolute;
+    color: white;
+    font-family: Tahoma;
+    font-size: 3vh;
+    font-weight: 500;
+}
+#nombre{
+    top: 31vh;
+}
+#profesion{
+    top: 45vh;
+}
+#correo{
+    top: 50vh;
+}
+#codigo{
+    top: 55vh;
+}
+.p_sitio{
+    position: absolute;
+    color: white;
+    font-family: Tahoma;
+    font-size: 3vh;
+    text-align: center;
+    font-weight: 50;
+}
+#aca{
+    top: 5vh;
+}
+#p_aca{
+    top: 25vh;
+}
+.sensores{
+    position: absolute;
+    color: rgb(0, 255, 234);
+    font-family: Tahoma;
+    font-size: 3vh;
+    text-align: center;
+    font-weight: 50;
+}
