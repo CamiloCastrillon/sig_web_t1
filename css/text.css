@@ -53,3 +53,63 @@
     text-align: center;
     font-weight: 50;
 }
+.t_des{
+    position: absolute;
+    right: -100%;
+    padding: 5px;
+    transition: 0.2s;
+}
+.t_des_p{
+    position: absolute;
+    right: -100%;
+    padding: 5px;
+    transition: 0.2s;
+}
+.t_des_gus{
+    position: absolute;
+    right: -100%;
+    padding: 5px;
+    transition: 0.2s;
+}
+.t_des_p_gus{
+    position: absolute;
+    right: -100%;
+    padding: 5px;
+    transition: 0.2s;
+}
+.t_des_hab{
+    position: absolute;
+    right: -100%;
+    padding: 5px;
+    transition: 0.2s;
+}
+.t_des_p_hab{
+    position: absolute;
+    right: -100%;
+    padding: 5px;
+    transition: 0.2s;
+}
+.t_des_deb{
+    position: absolute;
+    right: -100%;
+    padding: 5px;
+    transition: 0.2s;
+}
+.t_des_p_deb{
+    position: absolute;
+    right: -100%;
+    padding: 5px;
+    transition: 0.2s;
+}
+#t_des_titulo{
+    top:0;
+    font-family: Tahoma;
+    color: rgb(190, 190, 190);
+    font-size: 3vh;
+}
+#t_des_parrafo{
+    top: 8vh;
+    font-family: Tahoma;
+    color: white;
+    font-size: 2.5vh;
+}

@@ -8,9 +8,13 @@
     text-align: center;
     text-decoration: none;
     color: black;
+    transition: 0.2s;
 }
 .intro:hover {
     color: #00ccff;
+    background-color: rgb(0, 0, 61);
+    border-radius: 1vh;
+    padding: 1vh;
 }
 #presentacion{
     top: 85vh;

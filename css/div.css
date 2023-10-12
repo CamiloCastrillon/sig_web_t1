@@ -69,11 +69,45 @@ body {
     border-radius: 3vh;
     background-color: rgba(0, 0, 0, 0.258);
     overflow: hidden;
+    transition: border 0.1s;
+    text-align: center;
+}
+.icon_persona:hover{
+    border: 2vh solid transparent;
+    box-shadow: 0 0 20px #47ff72;
+}
+.icon_persona:hover .t_des{
+    right: 15%;
+}
+.icon_persona:hover .t_des_p{
+    right: 20%;
+}
+.icon_persona:hover .t_des_gus{
+    right: 30%;
+}
+.icon_persona:hover .t_des_p_gus{
+    right: 10%;
+}
+.icon_persona:hover .t_des_hab{
+    right: 17%;
+}
+.icon_persona:hover .t_des_p_hab{
+    right: 22%;
+}
+.icon_persona:hover .t_des_deb{
+    right: 17%;
+}
+.icon_persona:hover .t_des_p_deb{
+    right: 17%;
 }
 .icon_persona img{
     width: 100%;
     height: auto;
     display: block;
+    transition: 0.2s;
+}
+.icon_persona:hover img{
+    opacity: 0;
 }
 #pasatiempos{
     top: 10%;
