@@ -18,21 +18,21 @@
 }
 #presentacion{
     top: 85vh;
-    left: 0%;
+    left: 10%;
 }
 #academia{
     top: 85vh;
-    left: 22.5%;
+    left: 35%;
 }
 #persona{
     top: 85vh;
-    left: 45%;
+    left: 60%;
 }
 #exp{
     top: 85vh;
-    left: 65%;
+    left: 85%;
 }
 #sitios{
     top: 85vh;
-    left: 85%;
+    left: 100%;
 }
